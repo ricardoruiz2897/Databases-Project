@@ -1,0 +1,6 @@
+-mean rent per county
+
+-dems per county
+
+-pick 3 main counties, and get demograpichs and rent data
+and display.
